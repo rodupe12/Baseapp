@@ -1,15 +1,15 @@
 {
   "temperaturas": {
     "sensor1": {
-      "valor": 24.5,
+      "valor": 10.3,
       "unidad": "°C",
-      "fecha": "2025-06-02",
+      "fecha": "2025-06-30",
       "hora": "14:30"
     },
     "sensor2": {
-      "valor": 26.1,
+      "valor": 56.35,
       "unidad": "°C",
-      "fecha": "2025-06-02",
+      "fecha": "2025-12-02",
       "hora": "14:35"
     },
     "sensor3": {
