@@ -1,0 +1,187 @@
+{
+  "usuarios": [
+    {
+      "id": "1",  
+      "nombre": "Gerardo",
+      "perfiles_temperatura": [
+        {
+          "temperatura": 10,
+          "configuraciones": {
+            "pwm": 0,
+            "foco": 1,
+            "ventana": {
+              "ventana1": 0,
+              "ventana2": 0
+            }
+          }
+        },
+        {
+          "temperatura": 15,
+          "configuraciones": {
+            "pwm": 1000,
+            "foco": 1,
+            "ventana": {
+              "ventana1": 0,
+              "ventana2": 1
+            }
+          }
+        },
+        {
+          "temperatura": 20,
+          "configuraciones": {
+            "pwm": 3000,
+            "foco": 1,
+            "ventana": {
+              "ventana1": 1,
+              "ventana2": 0
+            }
+          }
+        },
+        {
+          "temperatura": 25,
+          "configuraciones": {
+            "pwm": 3500,
+            "foco": 0,
+            "ventana": {
+              "ventana1": 1,
+              "ventana2": 1
+            }
+          }
+        },
+        {
+          "temperatura": 30,
+          "configuraciones": {
+            "pwm": 4000,
+            "foco": 0,
+            "ventana": {
+              "ventana1": 1,
+              "ventana2": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "2",  
+      "nombre": "Rodrigo",
+      "perfiles_temperatura": [
+        {
+          "temperatura": 5,
+          "configuraciones": {
+            "pwm": 500,
+            "foco": 1,
+            "ventana": {
+              "ventana1": 0,
+              "ventana2": 0
+            }
+          }
+        },
+        {
+          "temperatura": 10,
+          "configuraciones": {
+            "pwm": 1500,
+            "foco": 1,
+            "ventana": {
+              "ventana1": 0,
+              "ventana2": 0
+            }
+          }
+        },
+        {
+          "temperatura": 15,
+          "configuraciones": {
+            "pwm": 2800,
+            "foco": 0,
+            "ventana": {
+              "ventana1": 1,
+              "ventana2": 0
+            }
+          }
+        },
+        {
+          "temperatura": 20,
+          "configuraciones": {
+            "pwm": 3500,
+            "foco": 1,
+            "ventana": {
+              "ventana1": 1,
+              "ventana2": 1
+            }
+          }
+        },
+        {
+          "temperatura": 25,
+          "configuraciones": {
+            "pwm": 4000,
+            "foco": 0,
+            "ventana": {
+              "ventana1": 1,
+              "ventana2": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "3",  
+      "nombre": "Jesus",
+      "perfiles_temperatura": [
+        {
+          "temperatura": 5,
+          "configuraciones": {
+            "pwm": 0,
+            "foco": 1,
+            "ventana": {
+              "ventana1": 0,
+              "ventana2": 0
+            }
+          }
+        },
+        {
+          "temperatura": 10,
+          "configuraciones": {
+            "pwm": 1500,
+            "foco": 1,
+            "ventana": {
+              "ventana1": 0,
+              "ventana2": 0
+            }
+          }
+        },
+        {
+          "temperatura": 20,
+          "configuraciones": {
+            "pwm": 2000,
+            "foco": 0,
+            "ventana": {
+              "ventana1": 0,
+              "ventana2": 1
+            }
+          }
+        },
+        {
+          "temperatura": 25,
+          "configuraciones": {
+            "pwm": 2500,
+            "foco": 0,
+            "ventana": {
+              "ventana1": 1,
+              "ventana2": 1
+            }
+          }
+        },
+        {
+          "temperatura": 30,
+          "configuraciones": {
+            "pwm": 4000,
+            "foco": 0,
+            "ventana": {
+              "ventana1": 1,
+              "ventana2": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
