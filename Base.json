@@ -1,7 +1,7 @@
 {
   "temperaturas": {
     "sensor1": {
-      "valor": 10.3,
+      "valor": 10.35,
       "unidad": "°C",
       "fecha": "2025-06-30",
       "hora": "14:30"
